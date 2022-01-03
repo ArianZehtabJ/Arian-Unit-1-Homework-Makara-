@@ -44,3 +44,13 @@
 * What technologies would this additional product or service utilize? - Makara could use a Artificial Intelligence  powered Chat bot for its customer service.
 
 * Why are these technologies appropriate for your solution? - A artifical intelligence chat bot could help to cater with a persons general frequently asked question or other enquiries in that regard and would most likely bring a larger influx of potential customers who can have all their questions asked in a matter of seconds and make a quick deceision on whether they would like to use Makara's services. 
+
+## Sources : 
+https://finance.yahoo.com/news/makara-opens-waitlist-first-ever-130000868.html
+https://www.linkedin.com/company/makara-digital/
+https://www.crunchbase.com/organization/makara/technology
+https://fintechforadvisers.com/meet-the-first-crypto-robo-adviser-makara/
+https://makara.com/
+https://help.makara.com/hc/en-us/articles/360061154692-Platform-Costs
+https://www.globenewswire.com/news-release/2021/06/01/2239550/0/en/Makara-Mobile-App-Launches-With-Over-20-000-on-Early-Access-Waitlist.html
+https://en.wikipedia.org/wiki/Robo-advisor
